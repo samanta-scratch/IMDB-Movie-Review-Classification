@@ -15,10 +15,8 @@
 - matplotlib
 
 ## Performance Visualization
-### CNN Model - 1
-![image](https://user-images.githubusercontent.com/113231185/213908352-764bfde5-f2e9-4d70-a15a-6ea305968fd7.png)
-Test Accuracy :  0.8564800024032593
-
+### Accuracy and Loss Curve
+![image](https://user-images.githubusercontent.com/113231185/213908496-e3b22717-dc0b-4bad-81b5-0eb326b41089.png)
 
 ## 👋Contributing
 
