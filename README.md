@@ -7,3 +7,9 @@
 
 ## 🗃️Datasets
 [IMDB](https://keras.io/api/datasets/imdb/)
+
+## 📦Packages
+- keras
+- tensorflow
+- sklearn
+- matplotlib
