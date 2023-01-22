@@ -15,7 +15,7 @@
 - matplotlib
 
 ## Performance Visualization
-CNN Model - 1
+### CNN Model - 1
 ![image](https://user-images.githubusercontent.com/113231185/213908352-764bfde5-f2e9-4d70-a15a-6ea305968fd7.png)
 Test Accuracy :  0.8564800024032593
 
