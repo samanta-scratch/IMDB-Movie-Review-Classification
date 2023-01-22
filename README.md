@@ -14,11 +14,11 @@
 - sklearn
 - matplotlib
 
-## Performance Visualization
+## 📸Performance Visualization
 ### Accuracy and Loss Curve
 ![image](https://user-images.githubusercontent.com/113231185/213908496-e3b22717-dc0b-4bad-81b5-0eb326b41089.png)
 
-## Conclusions
+## ✨Conclusions
 - Gaining some insights, how Convolutional neural network(CNN) can be used in context of NLP
 - CNN can also be implemented for other NLP tasks like machine translation, Sentiment Classification , Relation Classification , Textual Summarization, Answer Selection etc.
 
