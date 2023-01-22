@@ -4,3 +4,7 @@
 - Classified IMDB Movie Review into 2 classes
 - Achieved 89% accuracy using Convolutional Neural Network from scratch
 - Prevented overfitting using BatchNormalization and Dropout
+
+## 🗃️Datasets
+
+[IMDB]([https://drive.google.com/file/d/1rSKTTHYzT9scuLB90XSX-0JqEWuchMCZ/view](https://keras.io/api/datasets/imdb/))
